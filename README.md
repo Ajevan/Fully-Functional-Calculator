@@ -7,10 +7,10 @@ Title: A fully functional calculator
 Group number: 14
 
 Group members: 
-Saijeeshan Ketheeswaran, saijeeshan.ketheeswaran@uoit.net
-Ajevan Mahadaya, ajevan.mahadaya@uoit.net
-Brejanth Rajendran, brejanth.rajendran@uoit.net
-Abinash Narendiran, abinash.narendiran@uoit.net 
+Saijeeshan Ketheeswaran -saijeeshan.ketheeswaran@uoit.net,
+Ajevan Mahadaya -ajevan.mahadaya@uoit.net,
+Brejanth Rajendran -brejanth.rajendran@uoit.net,
+Abinash Narendiran -abinash.narendiran@uoit.net 
     
 Comments:
 	The fully functional calcuator is designed to help people to solve
