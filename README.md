@@ -17,3 +17,7 @@ Comments:
 basic operations, calculus, and vector problems. This calculator's basic 
 operations was done by Abinash, the calculus part was done by Brejanth and 
 Saijeeshan and the vector part was done by Ajevan.
+
+
+
+To run it , run the Main.cpp in the command terminal
