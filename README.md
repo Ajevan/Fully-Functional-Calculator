@@ -1,4 +1,4 @@
-# Workshop-2
+# Fully Functional Calculator
 
 CSCI 1061U (Winter 2016) Course Project
 
