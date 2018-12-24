@@ -1,8 +1,6 @@
 # Fully Functional Calculator
 
 
-Group number: 14
-
 Group members: 
 Saijeeshan Ketheeswaran -saijeeshan.ketheeswaran@uoit.net,
 Ajevan Mahadaya -ajevan.mahadaya@uoit.net,
